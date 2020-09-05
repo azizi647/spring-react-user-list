@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "name": "Mr. Aziz Azizli",
+      "department": "Software Development TE",
+      "salary": "7000 $",
+      "id": "u-1"
+    }
+  ]
+}
