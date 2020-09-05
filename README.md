@@ -19,7 +19,8 @@ Before adding spring-backend-rest-api I had used json-server npm package for dat
 #---------------------------------------
 
 >Front-end side React use axios http library and call api and generate ui
->I used react router dom for route pages and use router context provider
+>I used react router dom for route pages 
+>For state management I use react context api
 >Also I used pose library to give some effects 
 
 
